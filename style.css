@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&family=Orbitron:wght@400;800&family=Red+Hat+Display:wght@500;700;900&display=swap');
 
 *{
-    margin: 1;
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
